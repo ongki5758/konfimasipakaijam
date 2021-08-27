@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Claim Voucher</title>
+	<title>Konfirmasi</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
-	<description>Diskon up to 70%</description>
-	<lastBuildDate>Tue, 24 Aug 2021 18:33:35 +0000</lastBuildDate>
+	<description>Produk Parfum Pria</description>
+	<lastBuildDate>Fri, 27 Aug 2021 15:19:18 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -348,7 +348,7 @@
 				<div class="elementor-element elementor-element-10420348 elementor-align-center elementor-button-success showme animated-fast elementor-invisible elementor-widget elementor-widget-button" data-id="10420348" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;wobble&quot;}" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://form.bayarditempat.co/product/valia-special-cream-for-man/wozefa" class="elementor-button-link elementor-button elementor-size-xl" role="button">
+			<a href="https://form.bayarditempat.co/product/parfum-ozawa" class="elementor-button-link elementor-button elementor-size-xl" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-icon elementor-align-icon-left">
 				<i aria-hidden="true" class="fas fa-angle-double-right"></i>			</span>
@@ -602,6 +602,13 @@
 			<div class="elementor-column-wrap elementor-element-populated">
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-1cdb80d0 elementor-widget elementor-widget-spacer" data-id="1cdb80d0" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-2a62951 elementor-widget elementor-widget-spacer" data-id="2a62951" data-element_type="widget" data-widget_type="spacer.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-spacer">
 			<div class="elementor-spacer-inner"></div>
@@ -1098,10 +1105,10 @@
 <p><strong><span style="color: #ff0000;"> </span></strong></p>					</div>
 						</div>
 				</div>
-				<div class="elementor-element elementor-element-ebfa968 elementor-align-center elementor-button-success showme animated-fast elementor-invisible elementor-widget elementor-widget-button" data-id="ebfa968" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;wobble&quot;}" data-widget_type="button.default">
+				<div class="elementor-element elementor-element-ebfa968 elementor-align-center elementor-button-success showme animated-fast elementor-invisible elementor-widget elementor-widget-button" data-id="ebfa968" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;wobble&quot;,&quot;sticky&quot;:&quot;bottom&quot;,&quot;sticky_on&quot;:[&quot;mobile&quot;],&quot;sticky_parent&quot;:&quot;yes&quot;,&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0}" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="#kirim1" class="elementor-button-link elementor-button elementor-size-lg" role="button">
+			<a href="#kirim1" class="elementor-button-link elementor-button elementor-size-md" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-icon elementor-align-icon-left">
 				<i aria-hidden="true" class="fas fa-angle-double-right"></i>			</span>
@@ -1453,19 +1460,6 @@
 		</div>
 				</div>
 				</div>
-				<div class="elementor-element elementor-element-5366820f elementor-align-center elementor-button-success showme animated-fast elementor-invisible elementor-widget elementor-widget-button" data-id="5366820f" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;wobble&quot;}" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a href="#kirim1" class="elementor-button-link elementor-button elementor-size-lg" role="button">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-icon elementor-align-icon-left">
-				<i aria-hidden="true" class="fas fa-angle-double-right"></i>			</span>
-						<span class="elementor-button-text">GW MAU (KLIK DISINI) !</span>
-		</span>
-					</a>
-		</div>
-				</div>
-				</div>
 						</div>
 					</div>
 		</div>
@@ -1478,14 +1472,7 @@
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3bfd7874" data-id="3bfd7874" data-element_type="column">
 			<div class="elementor-column-wrap elementor-element-populated">
 							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-1eb10a07 elementor-widget elementor-widget-spacer" data-id="1eb10a07" data-element_type="widget" data-widget_type="spacer.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-spacer">
-			<div class="elementor-spacer-inner"></div>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-17efcba3 elementor-widget elementor-widget-menu-anchor" data-id="17efcba3" data-element_type="widget" data-widget_type="menu-anchor.default">
+						<div class="elementor-element elementor-element-17efcba3 elementor-widget elementor-widget-menu-anchor" data-id="17efcba3" data-element_type="widget" data-widget_type="menu-anchor.default">
 				<div class="elementor-widget-container">
 					<div id="kirim1" class="elementor-menu-anchor"></div>
 				</div>
@@ -1582,11 +1569,11 @@
 				<div class="elementor-element elementor-element-f9a4371 elementor-align-center elementor-button-success showme animated-fast elementor-invisible elementor-widget elementor-widget-button" data-id="f9a4371" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;wobble&quot;}" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://form.bayarditempat.co/product/valia-special-cream-for-man/wozefa" class="elementor-button-link elementor-button elementor-size-xl" role="button">
+			<a href="https://form.bayarditempat.co/product/parfum-ozawa" class="elementor-button-link elementor-button elementor-size-xl" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-icon elementor-align-icon-left">
 				<i aria-hidden="true" class="fas fa-angle-double-right"></i>			</span>
-						<span class="elementor-button-text">KIRIM SEKARANG !</span>
+						<span class="elementor-button-text">PESAN SEKARANG !</span>
 		</span>
 					</a>
 		</div>
@@ -1596,6 +1583,14 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-spacer">
 			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-4e183b0 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="4e183b0" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
 		</div>
 				</div>
 				</div>
