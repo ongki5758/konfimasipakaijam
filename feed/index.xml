@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Konfirmasi</title>
+	<title>Home</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
-	<description>Produk Parfum Pria</description>
-	<lastBuildDate>Sat, 28 Aug 2021 12:49:09 +0000</lastBuildDate>
+	<description>Konfrimasi</description>
+	<lastBuildDate>Thu, 02 Sep 2021 16:21:37 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -135,7 +135,7 @@
 				<div class="elementor-element elementor-element-7982e326 elementor-widget elementor-widget-image" data-id="7982e326" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="600" height="600" src="./../wp-content/uploads/2021/08/Z01.png" class="attachment-medium_large size-medium_large" alt="" loading="lazy" />														</div>
+												<img width="600" height="600" src="./../wp-content/uploads/2021/08/Z01.png" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="./../wp-content/uploads/2021/08/Z01.png 600w, ./../wp-content/uploads/2021/08/Z01-480x480.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 600px, 100vw" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-2dec8fec elementor-widget elementor-widget-heading" data-id="2dec8fec" data-element_type="widget" data-widget_type="heading.default">
@@ -171,7 +171,7 @@
 				<div class="elementor-element elementor-element-46e717e7 elementor-widget elementor-widget-image" data-id="46e717e7" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="750" height="375" src="./../wp-content/uploads/2021/08/membuat-wanita-nyaman-m.jpg" class="attachment-large size-large" alt="" loading="lazy" />														</div>
+												<img width="750" height="375" src="./../wp-content/uploads/2021/08/membuat-wanita-nyaman-m.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="./../wp-content/uploads/2021/08/membuat-wanita-nyaman-m.jpg 750w, ./../wp-content/uploads/2021/08/membuat-wanita-nyaman-m-480x240.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 750px, 100vw" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-d2504e elementor-widget elementor-widget-text-editor" data-id="d2504e" data-element_type="widget" data-widget_type="text-editor.default">
@@ -544,7 +544,7 @@
 				<div class="elementor-element elementor-element-1b07ad0f elementor-widget elementor-widget-image" data-id="1b07ad0f" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1024" height="502" src="./../wp-content/uploads/2021/08/temen-kost-min-1024x502.jpg" class="attachment-large size-large" alt="" loading="lazy" />														</div>
+												<img width="1024" height="502" src="./../wp-content/uploads/2021/08/temen-kost-min-1024x502.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="./../wp-content/uploads/2021/08/temen-kost-min-1024x502.jpg 1024w, ./../wp-content/uploads/2021/08/temen-kost-min-980x481.jpg 980w, ./../wp-content/uploads/2021/08/temen-kost-min-480x236.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1024px, 100vw" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-3ba05f11 elementor-widget elementor-widget-spacer" data-id="3ba05f11" data-element_type="widget" data-widget_type="spacer.default">
@@ -631,7 +631,7 @@
 				<div class="elementor-element elementor-element-40d16211 elementor-widget elementor-widget-image" data-id="40d16211" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1024" height="502" src="./../wp-content/uploads/2021/08/temen-kost-min-1024x502.jpg" class="attachment-large size-large" alt="" loading="lazy" />														</div>
+												<img width="1024" height="502" src="./../wp-content/uploads/2021/08/temen-kost-min-1024x502.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="./../wp-content/uploads/2021/08/temen-kost-min-1024x502.jpg 1024w, ./../wp-content/uploads/2021/08/temen-kost-min-980x481.jpg 980w, ./../wp-content/uploads/2021/08/temen-kost-min-480x236.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1024px, 100vw" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-6c837362 elementor-widget elementor-widget-spacer" data-id="6c837362" data-element_type="widget" data-widget_type="spacer.default">
@@ -700,7 +700,7 @@
 				<div class="elementor-element elementor-element-66d742b0 elementor-widget elementor-widget-image" data-id="66d742b0" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="352" height="198" src="./../wp-content/uploads/2021/08/warteg-min.jpg" class="attachment-large size-large" alt="" loading="lazy" />														</div>
+												<img width="352" height="198" src="./../wp-content/uploads/2021/08/warteg-min.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="./../wp-content/uploads/2021/08/warteg-min.jpg 352w, ./../wp-content/uploads/2021/08/warteg-min-300x169.jpg 300w" sizes="(max-width: 352px) 100vw, 352px" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-347e9237 elementor-widget elementor-widget-spacer" data-id="347e9237" data-element_type="widget" data-widget_type="spacer.default">
@@ -727,7 +727,7 @@
 				<div class="elementor-widget-container">
 					<div class="e-hosted-video elementor-wrapper elementor-open-lightbox">
 							<div class="elementor-custom-embed-image-overlay" data-elementor-open-lightbox="yes" data-elementor-lightbox="{&quot;type&quot;:&quot;video&quot;,&quot;videoType&quot;:&quot;hosted&quot;,&quot;url&quot;:&quot;https:\/\/www.mediafire.com\/file\/rdmp7w3zxsep6c0\/WhatsApp_Video_2021-06-14_at_16.47.41.mp4\/file&quot;,&quot;modalOptions&quot;:{&quot;id&quot;:&quot;elementor-lightbox-5bab5cf6&quot;,&quot;entranceAnimation&quot;:&quot;&quot;,&quot;entranceAnimation_tablet&quot;:&quot;&quot;,&quot;entranceAnimation_mobile&quot;:&quot;&quot;,&quot;videoAspectRatio&quot;:&quot;169&quot;},&quot;videoParams&quot;:{&quot;controls&quot;:&quot;&quot;,&quot;controlsList&quot;:&quot;nodownload&quot;}}">
-											<img width="1870" height="610" src="./../wp-content/uploads/2021/08/warning-stamp-png-e1630150957535.png" class="attachment-full size-full" alt="" loading="lazy" />																<div class="elementor-custom-embed-play" role="button">
+											<img width="1870" height="610" src="./../wp-content/uploads/2021/08/warning-stamp-png-e1630150957535.png" class="attachment-full size-full" alt="" loading="lazy" srcset="./../wp-content/uploads/2021/08/warning-stamp-png-e1630150957535.png 1870w, ./../wp-content/uploads/2021/08/warning-stamp-png-e1630150957535-1280x610.png 1280w, ./../wp-content/uploads/2021/08/warning-stamp-png-e1630150957535-980x551.png 980w, ./../wp-content/uploads/2021/08/warning-stamp-png-e1630150957535-480x270.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 1870px, 100vw" />																<div class="elementor-custom-embed-play" role="button">
 							<i class="eicon-play" aria-hidden="true"></i>
 							<span class="elementor-screen-only">Play Video</span>
 						</div>
@@ -814,7 +814,7 @@
 				<div class="elementor-element elementor-element-7e8eb2c elementor-widget elementor-widget-image" data-id="7e8eb2c" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="640" height="1024" src="./../wp-content/uploads/2021/08/strbck-640x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" />														</div>
+												<img width="640" height="1024" src="./../wp-content/uploads/2021/08/strbck-640x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="./../wp-content/uploads/2021/08/strbck-640x1024.jpg 640w, ./../wp-content/uploads/2021/08/strbck-480x768.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 640px, 100vw" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-4852092c elementor-widget elementor-widget-text-editor" data-id="4852092c" data-element_type="widget" data-widget_type="text-editor.default">
@@ -826,7 +826,7 @@
 				<div class="elementor-element elementor-element-3c1b9b02 elementor-widget elementor-widget-image" data-id="3c1b9b02" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1024" height="516" src="./../wp-content/uploads/2021/08/photo_2021-06-18_14-05-10-1024x516.jpg" class="attachment-large size-large" alt="" loading="lazy" />														</div>
+												<img width="1024" height="516" src="./../wp-content/uploads/2021/08/photo_2021-06-18_14-05-10-1024x516.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="./../wp-content/uploads/2021/08/photo_2021-06-18_14-05-10-1024x516.jpg 1024w, ./../wp-content/uploads/2021/08/photo_2021-06-18_14-05-10-980x494.jpg 980w, ./../wp-content/uploads/2021/08/photo_2021-06-18_14-05-10-480x242.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1024px, 100vw" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-288aa0b4 elementor-widget elementor-widget-spacer" data-id="288aa0b4" data-element_type="widget" data-widget_type="spacer.default">
@@ -856,7 +856,7 @@
 				<div class="elementor-element elementor-element-60279496 elementor-widget elementor-widget-image" data-id="60279496" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="648" height="1024" src="./../wp-content/uploads/2021/08/dpt-pnpg-648x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" />														</div>
+												<img width="648" height="1024" src="./../wp-content/uploads/2021/08/dpt-pnpg-648x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="./../wp-content/uploads/2021/08/dpt-pnpg-648x1024.jpg 648w, ./../wp-content/uploads/2021/08/dpt-pnpg-480x759.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 648px, 100vw" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-78ab3ca5 elementor-widget elementor-widget-text-editor" data-id="78ab3ca5" data-element_type="widget" data-widget_type="text-editor.default">
@@ -868,7 +868,7 @@
 				<div class="elementor-element elementor-element-3ba055e5 elementor-widget elementor-widget-image" data-id="3ba055e5" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="234" height="450" src="./../wp-content/uploads/2021/08/photo_2021-06-18_14-08-17.jpg" class="attachment-large size-large" alt="" loading="lazy" />														</div>
+												<img width="234" height="450" src="./../wp-content/uploads/2021/08/photo_2021-06-18_14-08-17.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="./../wp-content/uploads/2021/08/photo_2021-06-18_14-08-17.jpg 234w, ./../wp-content/uploads/2021/08/photo_2021-06-18_14-08-17-156x300.jpg 156w" sizes="(max-width: 234px) 100vw, 234px" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-3950792f elementor-widget elementor-widget-spacer" data-id="3950792f" data-element_type="widget" data-widget_type="spacer.default">
@@ -898,7 +898,7 @@
 				<div class="elementor-element elementor-element-7e7f2d3a elementor-widget elementor-widget-image" data-id="7e7f2d3a" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="642" height="1024" src="./../wp-content/uploads/2021/08/testi-tenmen-incern-min-642x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" />														</div>
+												<img width="642" height="1024" src="./../wp-content/uploads/2021/08/testi-tenmen-incern-min-642x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="./../wp-content/uploads/2021/08/testi-tenmen-incern-min-642x1024.jpg 642w, ./../wp-content/uploads/2021/08/testi-tenmen-incern-min-480x766.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 642px, 100vw" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-17bc453c elementor-widget elementor-widget-text-editor" data-id="17bc453c" data-element_type="widget" data-widget_type="text-editor.default">
@@ -910,7 +910,7 @@
 				<div class="elementor-element elementor-element-32cce15f elementor-widget elementor-widget-image" data-id="32cce15f" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="768" height="1024" src="./../wp-content/uploads/2021/08/photo_2021-06-18_14-11-52-768x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" />														</div>
+												<img width="768" height="1024" src="./../wp-content/uploads/2021/08/photo_2021-06-18_14-11-52-768x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="./../wp-content/uploads/2021/08/photo_2021-06-18_14-11-52-768x1024.jpg 768w, ./../wp-content/uploads/2021/08/photo_2021-06-18_14-11-52-480x640.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 768px, 100vw" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-804a212 elementor-widget elementor-widget-spacer" data-id="804a212" data-element_type="widget" data-widget_type="spacer.default">
@@ -989,7 +989,7 @@
 				<div class="elementor-element elementor-element-69d1c3b5 elementor-widget elementor-widget-image" data-id="69d1c3b5" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="600" height="600" src="./../wp-content/uploads/2021/08/Z01.png" class="attachment-medium_large size-medium_large" alt="" loading="lazy" />														</div>
+												<img width="600" height="600" src="./../wp-content/uploads/2021/08/Z01.png" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="./../wp-content/uploads/2021/08/Z01.png 600w, ./../wp-content/uploads/2021/08/Z01-480x480.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 600px, 100vw" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-33c71c87 elementor-widget elementor-widget-spacer" data-id="33c71c87" data-element_type="widget" data-widget_type="spacer.default">
@@ -1022,7 +1022,7 @@
 				<div class="elementor-element elementor-element-7d12f946 elementor-widget elementor-widget-image" data-id="7d12f946" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="657" height="1024" src="./../wp-content/uploads/2021/08/baby-sitter-min-657x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" />														</div>
+												<img width="657" height="1024" src="./../wp-content/uploads/2021/08/baby-sitter-min-657x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="./../wp-content/uploads/2021/08/baby-sitter-min-657x1024.jpg 657w, ./../wp-content/uploads/2021/08/baby-sitter-min-480x748.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 657px, 100vw" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-4b2055b6 elementor-widget elementor-widget-spacer" data-id="4b2055b6" data-element_type="widget" data-widget_type="spacer.default">
@@ -1039,7 +1039,7 @@
 				<div class="elementor-element elementor-element-8e93b1a elementor-widget elementor-widget-image" data-id="8e93b1a" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="662" height="1024" src="./../wp-content/uploads/2021/08/bini-nye-temen-min-662x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" />														</div>
+												<img width="662" height="1024" src="./../wp-content/uploads/2021/08/bini-nye-temen-min-662x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="./../wp-content/uploads/2021/08/bini-nye-temen-min-662x1024.jpg 662w, ./../wp-content/uploads/2021/08/bini-nye-temen-min-480x743.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 662px, 100vw" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-76a20833 elementor-widget elementor-widget-spacer" data-id="76a20833" data-element_type="widget" data-widget_type="spacer.default">
@@ -1056,7 +1056,7 @@
 				<div class="elementor-element elementor-element-21d5c727 elementor-widget elementor-widget-image" data-id="21d5c727" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="659" height="1024" src="./../wp-content/uploads/2021/08/client-min-659x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" />														</div>
+												<img width="659" height="1024" src="./../wp-content/uploads/2021/08/client-min-659x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="./../wp-content/uploads/2021/08/client-min-659x1024.jpg 659w, ./../wp-content/uploads/2021/08/client-min-480x745.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 659px, 100vw" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-66f9ff9a elementor-widget elementor-widget-spacer" data-id="66f9ff9a" data-element_type="widget" data-widget_type="spacer.default">
@@ -1073,7 +1073,7 @@
 				<div class="elementor-element elementor-element-7f910b10 elementor-widget elementor-widget-image" data-id="7f910b10" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="646" height="1024" src="./../wp-content/uploads/2021/08/guru-private-min-646x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" />														</div>
+												<img width="646" height="1024" src="./../wp-content/uploads/2021/08/guru-private-min-646x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="./../wp-content/uploads/2021/08/guru-private-min-646x1024.jpg 646w, ./../wp-content/uploads/2021/08/guru-private-min-480x761.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 646px, 100vw" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-67fcfcd elementor-widget elementor-widget-spacer" data-id="67fcfcd" data-element_type="widget" data-widget_type="spacer.default">
@@ -1090,7 +1090,7 @@
 				<div class="elementor-element elementor-element-97ab985 elementor-widget elementor-widget-image" data-id="97ab985" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="654" height="1024" src="./../wp-content/uploads/2021/08/satpam-komplek-min-654x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" />														</div>
+												<img width="654" height="1024" src="./../wp-content/uploads/2021/08/satpam-komplek-min-654x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="./../wp-content/uploads/2021/08/satpam-komplek-min-654x1024.jpg 654w, ./../wp-content/uploads/2021/08/satpam-komplek-min-480x751.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 654px, 100vw" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-7e583307 elementor-widget elementor-widget-spacer" data-id="7e583307" data-element_type="widget" data-widget_type="spacer.default">
@@ -1168,7 +1168,7 @@
 				<div class="elementor-element elementor-element-27f0ec4a elementor-widget elementor-widget-image" data-id="27f0ec4a" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="656" height="1024" src="./../wp-content/uploads/2021/08/photo_2021-01-18_16-58-50-656x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" />														</div>
+												<img width="656" height="1024" src="./../wp-content/uploads/2021/08/photo_2021-01-18_16-58-50-656x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="./../wp-content/uploads/2021/08/photo_2021-01-18_16-58-50-656x1024.jpg 656w, ./../wp-content/uploads/2021/08/photo_2021-01-18_16-58-50-480x749.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 656px, 100vw" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-5fdf8167 elementor-widget elementor-widget-spacer" data-id="5fdf8167" data-element_type="widget" data-widget_type="spacer.default">
@@ -1185,7 +1185,7 @@
 				<div class="elementor-element elementor-element-1b10a272 elementor-widget elementor-widget-image" data-id="1b10a272" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="656" height="1024" src="./../wp-content/uploads/2021/08/photo_2020-06-18_17-22-13-656x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" />														</div>
+												<img width="656" height="1024" src="./../wp-content/uploads/2021/08/photo_2020-06-18_17-22-13-656x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="./../wp-content/uploads/2021/08/photo_2020-06-18_17-22-13-656x1024.jpg 656w, ./../wp-content/uploads/2021/08/photo_2020-06-18_17-22-13-480x749.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 656px, 100vw" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-3e3e5836 elementor-widget elementor-widget-spacer" data-id="3e3e5836" data-element_type="widget" data-widget_type="spacer.default">
@@ -1297,8 +1297,8 @@
 			</item>
 		<item>
 		<title>Parfum Sang-X 3 in 1 (Pemikat, Perangsang &#038; Penenang)</title>
-		<link>./../desktop/index.html</link>
-					<comments>./../desktop/index.html#respond</comments>
+		<link>./../windows/index.html</link>
+					<comments>./../windows/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[ongki]]></dc:creator>
 		<pubDate>Tue, 24 Aug 2021 18:26:39 +0000</pubDate>
@@ -1447,7 +1447,7 @@
 				<div class="elementor-element elementor-element-79f0e36a elementor-widget elementor-widget-image" data-id="79f0e36a" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="750" height="375" src="./../wp-content/uploads/2021/08/membuat-wanita-nyaman-m.jpg" class="attachment-large size-large" alt="" loading="lazy" />														</div>
+												<img width="750" height="375" src="./../wp-content/uploads/2021/08/membuat-wanita-nyaman-m.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="./../wp-content/uploads/2021/08/membuat-wanita-nyaman-m.jpg 750w, ./../wp-content/uploads/2021/08/membuat-wanita-nyaman-m-480x240.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 750px, 100vw" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-2f9ca142 elementor-widget elementor-widget-text-editor" data-id="2f9ca142" data-element_type="widget" data-widget_type="text-editor.default">
@@ -1624,7 +1624,7 @@
 				<div class="elementor-element elementor-element-10420348 elementor-align-center elementor-button-success showme animated-fast elementor-invisible elementor-widget elementor-widget-button" data-id="10420348" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;wobble&quot;}" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://form.bayarditempat.co/product/parfum-ozawa" class="elementor-button-link elementor-button elementor-size-xl" role="button">
+			<a href="https://cod.parfumperangsang.co/product/parfum-ozawa" class="elementor-button-link elementor-button elementor-size-xl" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-icon elementor-align-icon-left">
 				<i aria-hidden="true" class="fas fa-angle-double-right"></i>			</span>
@@ -1759,22 +1759,22 @@
 					</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>./../desktop/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>./../windows/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Parfum Sang-X 3 in 1 (Pemikat, Perangsang &#038; Penenang)</title>
-		<link>./../mobile/index.html</link>
-					<comments>./../mobile/index.html#respond</comments>
+		<link>./../android/index.html</link>
+					<comments>./../android/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[ongki]]></dc:creator>
 		<pubDate>Tue, 24 Aug 2021 18:23:44 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">./../index.html?p=130</guid>
 
-					<description><![CDATA[Cara Paling Gampang Merangsang Cewek Dan Membuat Mereka Gak Bisa Nahan Nafsu ! Nih Buktinya : Klik Disini Awalnya SPG ini menawarkan kredit motor ke gw, Dan tanpa disadari dia terkena &#8220;EFEK LUSTYFER&#8221; yang gw pakai&#8230; Dan akhirnya, dia ngajak kenalan, dan ngajak gw ke kosan nya (ini foto ketika gw ke kosan nya) : [&#8230;]]]></description>
+					<description><![CDATA[Cara Paling Gampang Merangsang Cewek Dan Membuat Mereka Gak Bisa Nahan Nafsu ! Nih Buktinya : Awalnya SPG ini menawarkan kredit motor ke gw, Dan tanpa disadari dia terkena &#8220;EFEK LUSTYFER&#8221; yang gw pakai&#8230; Dan akhirnya, dia ngajak kenalan, dan ngajak gw ke kosan nya (ini foto ketika gw ke kosan nya) : Dan di [&#8230;]]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="130" class="elementor elementor-130" data-elementor-settings="[]">
 						<div class="elementor-inner">
 							<div class="elementor-section-wrap">
@@ -1832,20 +1832,15 @@
 		</div>
 				</div>
 				</div>
-				<div class="elementor-element elementor-element-23d2f538 elementor-button-success elementor-align-center showme animated-fast elementor-invisible elementor-widget elementor-widget-button" data-id="23d2f538" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;wobble&quot;}" data-widget_type="button.default">
+				<div class="elementor-element elementor-element-744e074 elementor-view-default elementor-invisible elementor-widget elementor-widget-icon" data-id="744e074" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInDown&quot;}" data-widget_type="icon.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a href="#rev1" class="elementor-button-link elementor-button elementor-size-lg" role="button">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-icon elementor-align-icon-left">
-				<i aria-hidden="true" class="far fa-arrow-alt-circle-right"></i>			</span>
-						<span class="elementor-button-text">Klik Disini</span>
-		</span>
-					</a>
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="fas fa-arrow-down"></i>			</div>
 		</div>
 				</div>
 				</div>
-				<div class="elementor-element elementor-element-2aa5465f elementor-widget elementor-widget-spacer" data-id="2aa5465f" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-element elementor-element-23e6d22 elementor-widget elementor-widget-spacer" data-id="23e6d22" data-element_type="widget" data-widget_type="spacer.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-spacer">
 			<div class="elementor-spacer-inner"></div>
@@ -1994,7 +1989,7 @@
 				<div class="elementor-element elementor-element-7c2725c6 elementor-widget elementor-widget-image" data-id="7c2725c6" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="350" height="262" src="./../wp-content/uploads/2021/08/tg-m.jpg" class="attachment-large size-large" alt="" loading="lazy" />														</div>
+												<img width="350" height="262" src="./../wp-content/uploads/2021/08/tg-m.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="./../wp-content/uploads/2021/08/tg-m.jpg 350w, ./../wp-content/uploads/2021/08/tg-m-300x225.jpg 300w" sizes="(max-width: 350px) 100vw, 350px" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-3ac5f860 elementor-widget elementor-widget-text-editor" data-id="3ac5f860" data-element_type="widget" data-widget_type="text-editor.default">
@@ -2036,7 +2031,7 @@
 				<div class="elementor-element elementor-element-113ddae8 elementor-widget elementor-widget-image" data-id="113ddae8" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="480" height="538" src="./../wp-content/uploads/2021/08/tg3-m.jpg" class="attachment-large size-large" alt="" loading="lazy" />														</div>
+												<img width="480" height="538" src="./../wp-content/uploads/2021/08/tg3-m.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="./../wp-content/uploads/2021/08/tg3-m.jpg 480w, ./../wp-content/uploads/2021/08/tg3-m-268x300.jpg 268w" sizes="(max-width: 480px) 100vw, 480px" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-fcf79ec elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="fcf79ec" data-element_type="widget" data-widget_type="divider.default">
@@ -2057,7 +2052,7 @@
 				<div class="elementor-element elementor-element-3492886a elementor-widget elementor-widget-image" data-id="3492886a" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="263" height="350" src="./../wp-content/uploads/2021/08/bab1-m.jpg" class="attachment-large size-large" alt="" loading="lazy" />														</div>
+												<img width="263" height="350" src="./../wp-content/uploads/2021/08/bab1-m.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="./../wp-content/uploads/2021/08/bab1-m.jpg 263w, ./../wp-content/uploads/2021/08/bab1-m-225x300.jpg 225w" sizes="(max-width: 263px) 100vw, 263px" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-38c0d898 elementor-widget elementor-widget-text-editor" data-id="38c0d898" data-element_type="widget" data-widget_type="text-editor.default">
@@ -2075,13 +2070,13 @@
 				<div class="elementor-element elementor-element-32b4b71b elementor-widget elementor-widget-image" data-id="32b4b71b" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="263" height="350" src="./../wp-content/uploads/2021/08/bab3-m.jpg" class="attachment-large size-large" alt="" loading="lazy" />														</div>
+												<img width="263" height="350" src="./../wp-content/uploads/2021/08/bab3-m.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="./../wp-content/uploads/2021/08/bab3-m.jpg 263w, ./../wp-content/uploads/2021/08/bab3-m-225x300.jpg 225w" sizes="(max-width: 263px) 100vw, 263px" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-7874818b elementor-widget elementor-widget-image" data-id="7874818b" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="263" height="350" src="./../wp-content/uploads/2021/08/bab4-m.jpg" class="attachment-large size-large" alt="" loading="lazy" />														</div>
+												<img width="263" height="350" src="./../wp-content/uploads/2021/08/bab4-m.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="./../wp-content/uploads/2021/08/bab4-m.jpg 263w, ./../wp-content/uploads/2021/08/bab4-m-225x300.jpg 225w" sizes="(max-width: 263px) 100vw, 263px" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-5094790a elementor-widget elementor-widget-spacer" data-id="5094790a" data-element_type="widget" data-widget_type="spacer.default">
@@ -2344,7 +2339,7 @@
 				<div class="elementor-element elementor-element-7ff31465 elementor-widget elementor-widget-image" data-id="7ff31465" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="750" height="375" src="./../wp-content/uploads/2021/08/membuat-wanita-nyaman-m.jpg" class="attachment-large size-large" alt="" loading="lazy" />														</div>
+												<img width="750" height="375" src="./../wp-content/uploads/2021/08/membuat-wanita-nyaman-m.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="./../wp-content/uploads/2021/08/membuat-wanita-nyaman-m.jpg 750w, ./../wp-content/uploads/2021/08/membuat-wanita-nyaman-m-480x240.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 750px, 100vw" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-18e6c32 elementor-widget elementor-widget-text-editor" data-id="18e6c32" data-element_type="widget" data-widget_type="text-editor.default">
@@ -2365,7 +2360,7 @@
 				<div class="elementor-element elementor-element-7fd8959d elementor-widget elementor-widget-image" data-id="7fd8959d" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="800" height="430" src="./../wp-content/uploads/2021/08/birahi-m.jpg" class="attachment-large size-large" alt="" loading="lazy" />														</div>
+												<img width="800" height="430" src="./../wp-content/uploads/2021/08/birahi-m.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="./../wp-content/uploads/2021/08/birahi-m.jpg 800w, ./../wp-content/uploads/2021/08/birahi-m-480x258.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 800px, 100vw" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-b1b053b elementor-widget elementor-widget-text-editor" data-id="b1b053b" data-element_type="widget" data-widget_type="text-editor.default">
@@ -2381,7 +2376,7 @@
 <p><strong><span style="color: #ff0000;"> </span></strong></p>					</div>
 						</div>
 				</div>
-				<div class="elementor-element elementor-element-ebfa968 elementor-align-center elementor-button-success showme animated-fast elementor-invisible elementor-widget elementor-widget-button" data-id="ebfa968" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;wobble&quot;,&quot;sticky&quot;:&quot;bottom&quot;,&quot;sticky_on&quot;:[&quot;mobile&quot;],&quot;sticky_parent&quot;:&quot;yes&quot;,&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0}" data-widget_type="button.default">
+				<div class="elementor-element elementor-element-ebfa968 elementor-align-center elementor-button-success animated-fast elementor-invisible elementor-widget elementor-widget-button" data-id="ebfa968" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;wobble&quot;,&quot;sticky&quot;:&quot;bottom&quot;,&quot;sticky_on&quot;:[&quot;mobile&quot;],&quot;sticky_offset&quot;:5,&quot;sticky_effects_offset&quot;:0}" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
 			<a href="#kirim1" class="elementor-button-link elementor-button elementor-size-md" role="button">
@@ -2429,7 +2424,7 @@
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
 													<a href="./../wp-content/uploads/2021/08/testi1.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="testi1.jpg">
-							<img width="720" height="1280" src="./../wp-content/uploads/2021/08/testi1.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" />								</a>
+							<img width="720" height="1280" src="./../wp-content/uploads/2021/08/testi1.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="./../wp-content/uploads/2021/08/testi1.jpg 720w, ./../wp-content/uploads/2021/08/testi1-480x853.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" />								</a>
 														</div>
 						</div>
 				</div>
@@ -2443,7 +2438,7 @@
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
 													<a href="./../wp-content/uploads/2021/08/testi2.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="testi2.jpg">
-							<img width="720" height="1280" src="./../wp-content/uploads/2021/08/testi2.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" />								</a>
+							<img width="720" height="1280" src="./../wp-content/uploads/2021/08/testi2.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="./../wp-content/uploads/2021/08/testi2.jpg 720w, ./../wp-content/uploads/2021/08/testi2-480x853.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" />								</a>
 														</div>
 						</div>
 				</div>
@@ -2457,7 +2452,7 @@
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
 													<a href="./../wp-content/uploads/2021/08/testi3.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="testi3.jpg">
-							<img width="720" height="1280" src="./../wp-content/uploads/2021/08/testi3.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" />								</a>
+							<img width="720" height="1280" src="./../wp-content/uploads/2021/08/testi3.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="./../wp-content/uploads/2021/08/testi3.jpg 720w, ./../wp-content/uploads/2021/08/testi3-480x853.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" />								</a>
 														</div>
 						</div>
 				</div>
@@ -2471,7 +2466,7 @@
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
 													<a href="./../wp-content/uploads/2021/08/testi4.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="testi4.jpg">
-							<img width="720" height="1280" src="./../wp-content/uploads/2021/08/testi4.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" />								</a>
+							<img width="720" height="1280" src="./../wp-content/uploads/2021/08/testi4.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="./../wp-content/uploads/2021/08/testi4.jpg 720w, ./../wp-content/uploads/2021/08/testi4-480x853.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" />								</a>
 														</div>
 						</div>
 				</div>
@@ -2491,7 +2486,7 @@
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
 													<a href="./../wp-content/uploads/2021/08/testi5.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="testi5.jpg">
-							<img width="768" height="1194" src="./../wp-content/uploads/2021/08/testi5-768x1194.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" />								</a>
+							<img width="768" height="1194" src="./../wp-content/uploads/2021/08/testi5-768x1194.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="./../wp-content/uploads/2021/08/testi5-768x1194.jpg 768w, ./../wp-content/uploads/2021/08/testi5-480x747.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 768px, 100vw" />								</a>
 														</div>
 						</div>
 				</div>
@@ -2505,7 +2500,7 @@
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
 													<a href="./../wp-content/uploads/2021/08/testi6.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="testi6.jpg">
-							<img width="768" height="1192" src="./../wp-content/uploads/2021/08/testi6-768x1192.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" />								</a>
+							<img width="768" height="1192" src="./../wp-content/uploads/2021/08/testi6-768x1192.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="./../wp-content/uploads/2021/08/testi6-768x1192.jpg 768w, ./../wp-content/uploads/2021/08/testi6-480x745.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 768px, 100vw" />								</a>
 														</div>
 						</div>
 				</div>
@@ -2519,7 +2514,7 @@
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
 													<a href="./../wp-content/uploads/2021/08/testi7.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="testi7.jpg">
-							<img width="720" height="1148" src="./../wp-content/uploads/2021/08/testi7.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" />								</a>
+							<img width="720" height="1148" src="./../wp-content/uploads/2021/08/testi7.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="./../wp-content/uploads/2021/08/testi7.jpg 720w, ./../wp-content/uploads/2021/08/testi7-480x765.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" />								</a>
 														</div>
 						</div>
 				</div>
@@ -2533,7 +2528,7 @@
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
 													<a href="./../wp-content/uploads/2021/08/testi8.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="testi8.jpg">
-							<img width="720" height="1124" src="./../wp-content/uploads/2021/08/testi8.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" />								</a>
+							<img width="720" height="1124" src="./../wp-content/uploads/2021/08/testi8.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="./../wp-content/uploads/2021/08/testi8.jpg 720w, ./../wp-content/uploads/2021/08/testi8-480x749.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" />								</a>
 														</div>
 						</div>
 				</div>
@@ -2553,7 +2548,7 @@
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
 													<a href="./../wp-content/uploads/2021/08/testi9.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="testi9.jpg">
-							<img width="720" height="1280" src="./../wp-content/uploads/2021/08/testi9.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" />								</a>
+							<img width="720" height="1280" src="./../wp-content/uploads/2021/08/testi9.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="./../wp-content/uploads/2021/08/testi9.jpg 720w, ./../wp-content/uploads/2021/08/testi9-480x853.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" />								</a>
 														</div>
 						</div>
 				</div>
@@ -2567,7 +2562,7 @@
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
 													<a href="./../wp-content/uploads/2021/08/testi10.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="testi10.jpg">
-							<img width="720" height="1168" src="./../wp-content/uploads/2021/08/testi10.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" />								</a>
+							<img width="720" height="1168" src="./../wp-content/uploads/2021/08/testi10.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="./../wp-content/uploads/2021/08/testi10.jpg 720w, ./../wp-content/uploads/2021/08/testi10-480x779.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" />								</a>
 														</div>
 						</div>
 				</div>
@@ -2581,7 +2576,7 @@
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
 													<a href="./../wp-content/uploads/2021/08/testi12.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="testi12.jpg">
-							<img width="720" height="1136" src="./../wp-content/uploads/2021/08/testi12.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" />								</a>
+							<img width="720" height="1136" src="./../wp-content/uploads/2021/08/testi12.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="./../wp-content/uploads/2021/08/testi12.jpg 720w, ./../wp-content/uploads/2021/08/testi12-480x757.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" />								</a>
 														</div>
 						</div>
 				</div>
@@ -2595,7 +2590,7 @@
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
 													<a href="./../wp-content/uploads/2021/08/testi11.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="testi11.jpg">
-							<img width="534" height="893" src="./../wp-content/uploads/2021/08/testi11.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" />								</a>
+							<img width="534" height="893" src="./../wp-content/uploads/2021/08/testi11.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="./../wp-content/uploads/2021/08/testi11.jpg 534w, ./../wp-content/uploads/2021/08/testi11-480x803.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 534px, 100vw" />								</a>
 														</div>
 						</div>
 				</div>
@@ -2615,7 +2610,7 @@
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
 													<a href="./../wp-content/uploads/2021/08/testi13.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="testi13.jpg">
-							<img width="720" height="1160" src="./../wp-content/uploads/2021/08/testi13.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" />								</a>
+							<img width="720" height="1160" src="./../wp-content/uploads/2021/08/testi13.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="./../wp-content/uploads/2021/08/testi13.jpg 720w, ./../wp-content/uploads/2021/08/testi13-480x773.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" />								</a>
 														</div>
 						</div>
 				</div>
@@ -2629,7 +2624,7 @@
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
 													<a href="./../wp-content/uploads/2021/08/testi14.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="testi14.jpg">
-							<img width="720" height="1152" src="./../wp-content/uploads/2021/08/testi14.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" />								</a>
+							<img width="720" height="1152" src="./../wp-content/uploads/2021/08/testi14.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="./../wp-content/uploads/2021/08/testi14.jpg 720w, ./../wp-content/uploads/2021/08/testi14-480x768.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" />								</a>
 														</div>
 						</div>
 				</div>
@@ -2643,7 +2638,7 @@
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
 													<a href="./../wp-content/uploads/2021/08/testi15.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="testi15.jpg">
-							<img width="720" height="1136" src="./../wp-content/uploads/2021/08/testi15.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" />								</a>
+							<img width="720" height="1136" src="./../wp-content/uploads/2021/08/testi15.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="./../wp-content/uploads/2021/08/testi15.jpg 720w, ./../wp-content/uploads/2021/08/testi15-480x757.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" />								</a>
 														</div>
 						</div>
 				</div>
@@ -2657,7 +2652,7 @@
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
 													<a href="./../wp-content/uploads/2021/08/testi16.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="testi16.jpg">
-							<img width="720" height="1280" src="./../wp-content/uploads/2021/08/testi16.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" />								</a>
+							<img width="720" height="1280" src="./../wp-content/uploads/2021/08/testi16.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="./../wp-content/uploads/2021/08/testi16.jpg 720w, ./../wp-content/uploads/2021/08/testi16-480x853.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" />								</a>
 														</div>
 						</div>
 				</div>
@@ -2677,7 +2672,7 @@
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
 													<a href="./../wp-content/uploads/2021/08/testi17.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="testi17.jpg">
-							<img width="720" height="1280" src="./../wp-content/uploads/2021/08/testi17.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" />								</a>
+							<img width="720" height="1280" src="./../wp-content/uploads/2021/08/testi17.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="./../wp-content/uploads/2021/08/testi17.jpg 720w, ./../wp-content/uploads/2021/08/testi17-480x853.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" />								</a>
 														</div>
 						</div>
 				</div>
@@ -2691,7 +2686,7 @@
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
 													<a href="./../wp-content/uploads/2021/08/testi18.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="testi18.jpg">
-							<img width="720" height="1280" src="./../wp-content/uploads/2021/08/testi18.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" />								</a>
+							<img width="720" height="1280" src="./../wp-content/uploads/2021/08/testi18.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="./../wp-content/uploads/2021/08/testi18.jpg 720w, ./../wp-content/uploads/2021/08/testi18-480x853.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" />								</a>
 														</div>
 						</div>
 				</div>
@@ -2705,7 +2700,7 @@
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
 													<a href="./../wp-content/uploads/2021/08/testi19.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="testi19.jpg">
-							<img width="720" height="1280" src="./../wp-content/uploads/2021/08/testi19.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" />								</a>
+							<img width="720" height="1280" src="./../wp-content/uploads/2021/08/testi19.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="./../wp-content/uploads/2021/08/testi19.jpg 720w, ./../wp-content/uploads/2021/08/testi19-480x853.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" />								</a>
 														</div>
 						</div>
 				</div>
@@ -2719,7 +2714,7 @@
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
 													<a href="./../wp-content/uploads/2021/08/testi20.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="testi20.jpg">
-							<img width="768" height="1210" src="./../wp-content/uploads/2021/08/testi20-768x1210.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" />								</a>
+							<img width="768" height="1210" src="./../wp-content/uploads/2021/08/testi20-768x1210.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="./../wp-content/uploads/2021/08/testi20-768x1210.jpg 768w, ./../wp-content/uploads/2021/08/testi20-480x756.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 768px, 100vw" />								</a>
 														</div>
 						</div>
 				</div>
@@ -2756,7 +2751,8 @@
 				<div class="elementor-element elementor-element-4e371b77 elementor-widget elementor-widget-text-editor" data-id="4e371b77" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<p style="text-align: center;">Kalo Agan Mau Ngerasain Enaknya <strong><span style="color: #00ff00;">&#8220;DIPERKOSA CEWEK&#8221;</span></strong></p><p> </p><p style="text-align: center;">Yuk Cepetan pesan sekarang , Mumpung Lagi <strong><span style="color: #ff0000;">HARGA PROMO !!</span></strong></p>					</div>
+				<p style="text-align: center;">Kalo Agan Mau Ngerasain Enaknya <strong><span style="color: #00ff00;">&#8220;DIPERKOSA CEWEK&#8221;</span></strong></p>
+<p style="text-align: center;">Yuk Cepetan pesan sekarang , Mumpung Lagi <strong><span style="color: #ff0000;">HARGA PROMO !!</span></strong></p>					</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-3bf21f elementor-widget elementor-widget-alert" data-id="3bf21f" data-element_type="widget" data-widget_type="alert.default">
@@ -2783,7 +2779,7 @@
 				<div class="elementor-element elementor-element-7dfd7d63 elementor-widget elementor-widget-text-editor" data-id="7dfd7d63" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<p><span style="color: #f2ebeb;">Harga Normal :</span></p><p><span style="color: #ff0000;"><del>Rp 998.000</del></span></p>					</div>
+				<p><span style="color: #f2ebeb;">Harga Normal :</span></p><p><span style="color: #ff0000;"><del><b>Rp 998.000</b></del></span></p>					</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-c237cd4 elementor-view-default elementor-invisible elementor-widget elementor-widget-icon" data-id="c237cd4" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;bounce&quot;}" data-widget_type="icon.default">
@@ -2845,7 +2841,7 @@
 				<div class="elementor-element elementor-element-f9a4371 elementor-align-center elementor-button-success showme animated-fast elementor-invisible elementor-widget elementor-widget-button" data-id="f9a4371" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;wobble&quot;}" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://form.bayarditempat.co/product/parfum-ozawa" class="elementor-button-link elementor-button elementor-size-xl" role="button">
+			<a href="https://cod.parfumperangsang.co/product/parfum-ozawa" class="elementor-button-link elementor-button elementor-size-xl" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-icon elementor-align-icon-left">
 				<i aria-hidden="true" class="fas fa-angle-double-right"></i>			</span>
@@ -2943,6 +2939,19 @@
 				<p>(Garansi 365 Hari)</p>					</div>
 						</div>
 				</div>
+				<div class="elementor-element elementor-element-889cba7 elementor-align-center elementor-button-success showme animated-fast elementor-invisible elementor-widget elementor-widget-button" data-id="889cba7" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;wobble&quot;}" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://cod.parfumperangsang.co/product/parfum-ozawa" class="elementor-button-link elementor-button elementor-size-xl" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon elementor-align-icon-left">
+				<i aria-hidden="true" class="fas fa-angle-double-right"></i>			</span>
+						<span class="elementor-button-text">PESAN SEKARANG !</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
 				<div class="elementor-element elementor-element-63faee49 elementor-widget elementor-widget-spacer" data-id="63faee49" data-element_type="widget" data-widget_type="spacer.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-spacer">
@@ -2974,7 +2983,7 @@
 					</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>./../mobile/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>./../android/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
